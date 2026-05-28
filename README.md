@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elizabeth-Vokac-Main
-- 👀 I’m interested in coding and data science for climate and sustainability
-- 🌱 I’m currently learning python, matplotlib, R, Tableau
-- 💞️ I’m looking to collaborate on biomimicry coding projects, climate data science projects
+- 👀 I’m interested in solving climate by leveraging data visualization and storytelling to translate complex information
+- 🌱 I’m currently learning python & R (matplotlib, plotly), Tableau, Power BI
+- 💞️ I’m looking to collaborate on biomimicry, coding projects, climate data science projects
 - 📫 How to reach me lavokac@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love combining math and code to make art
